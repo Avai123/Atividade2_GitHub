@@ -1,0 +1,18 @@
+.MD Extensão de arquivo
+Desenvolvedor: John Gruber
+Tipo de arquivo: Markdown Documentation File
+Você está aqui porque você tem um arquivo que tem uma extensão de arquivo que termina em .md. Os arquivos com a extensão do arquivo .md só pode ser iniciado por determinadas aplicações. É possível que a .md arquivos são arquivos de dados em vez de documentos ou meios de comunicação, o que significa que não está destinado a ser visto em todos.
+O QUE É UM .MD ARQUIVO?
+Estes são arquivos de texto utilizadas como arquivos de documentação Markdown através dialetos da língua Markdown. MD arquivos são normalmente guardados em formato de texto simples, incluindo símbolos de texto em linha, definindo como um texto é formatado como os recortes, a sua formatação de tabela, fontes e cabeçalhos. Os sistemas de documentação HTML encontrar MD arquivos úteis, bem como o controle de versão de código fonte, porque o texto legível que são historicamente revista pode ser comparado com os arquivos MD Ao contrário dos arquivos binários que não podem ser comparados facilmente. MD arquivos também são criados com a finalidade de autoria documentação de texto simples para facilitar a conversão para HTML. Arquivos usando a extensão MD foram desenvolvidos por John Gruber e são usados ​​principalmente pelo programa Markdown a partir do site Daring Fireball. Os arquivos leia-me de um projeto criado por meio do sistema de controle de versão online chamado GitHub também usa um formato README.md muitas vezes. MD arquivos são categorizados como arquivos de desenvolvedores mais utilizados pelos Markdown, uma ótima ferramenta para converter arquivos de texto para versões HTML de modo que os usuários podem criar arquivos que são fáceis de ler e escrever.
+COMO ABRIR UMA .MD ARQUIVO?
+Lançar uma .md arquivo, ou qualquer outro arquivo no seu PC, clicando duas vezes nele. Se suas associações de arquivos estão configurados corretamente, o aplicativo que está destinado a abrir o seu .md arquivo irá abri-lo. É possível que você pode precisar baixar ou comprar o aplicativo correto. Também é possível que você tenha o aplicativo correto no seu PC, mas .md arquivos ainda não estão associados com ele. Neste caso, quando você tenta abrir um .md arquivo, você pode dizer ao Windows qual a aplicação é o correto para esse arquivo. A partir de então, a abertura de uma .md arquivo irá abrir o aplicativo correto.
+CLIQUE AQUI PARA CORRIGIR ERROS DE ASSOCIAÇÃO DE ARQUIVO .MD
+APLICATIVOS QUE ABREM UMA .MD ARQUIVO
+Microsoft Notepad
+Notepad2
+Apple TextEdit
+Microsoft WordPad
+UMA PALAVRA DE ADVERTÊNCIA
+Tenha cuidado para não renomear a extensão em .md arquivos, ou quaisquer outros arquivos. Isso não vai mudar o tipo de arquivo. Apenas software de conversão especial pode mudar um arquivo de um tipo de arquivo para outro.
+O QUE É UMA EXTENSÃO DE ARQUIVO?
+Uma extensão do ficheiro é o conjunto de três ou de quatro caracteres no final de um nome de ficheiro, neste caso, .md. As extensões de arquivo lhe dizer que tipo de arquivo que é, e dizer ao Windows que os programas podem abri-lo. Do Windows, muitas vezes associa um programa padrão para cada extensão de arquivo, de modo que quando você clicar duas vezes no arquivo, o programa inicia automaticamente. Quando esse programa não é mais em seu PC, você pode, por vezes, obter um erro quando você tenta abrir o arquivo associado.
